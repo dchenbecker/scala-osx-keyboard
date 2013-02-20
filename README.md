@@ -3,6 +3,8 @@ scala-osx-keyboard
 
 A keyboard mapping for OS X geared toward Unicode/greek Scala programming
 
+This keymap is public domain
+
 From the Ukulele manual (that I used to create this keymap):
 
 There are three places that you can install a keyboard layout. The
